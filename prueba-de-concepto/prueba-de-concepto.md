@@ -39,8 +39,6 @@ getRecitales() {
 ````
 aca es donde se lee el resultado y lo muestra 
 
-class GrillaRecitales extends React.Component {
-
 ````javaScript
     render() {
         return <>
