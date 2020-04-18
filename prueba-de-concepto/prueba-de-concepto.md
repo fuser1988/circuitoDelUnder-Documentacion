@@ -29,8 +29,14 @@ El pedido de busqueda llega al mensaje filterGenero del objeto RecitalController
 
 Despues se devuelve lo pedido para que el componente lea la respuesta
 
-imagen
-
+````javaScript
+getRecitales() {
+        API.get(`recitales`)
+            .then(({ data: _recitales }) => {
+                this.setState({ recitales: _recitales });
+            });
+    }
+````
 aca es donde se lee el resultado y lo muestra 
 
 imagen
