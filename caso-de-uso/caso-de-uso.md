@@ -1,6 +1,6 @@
 # Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](diagrama-caso-de-uso.pdf)
+![Diagrama de Casos de Uso](diagrama-caso-de-uso.png)
 
 **Registrarse:**
 - El usuario debe logearse con facebook
