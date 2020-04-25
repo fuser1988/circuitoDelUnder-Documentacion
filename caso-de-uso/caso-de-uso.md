@@ -11,7 +11,7 @@
 - El sistema mostrará la lista de recitales asociadas a ese genero
 
 **Unirse a recital:**
-- Luego de que el usuario busque una clase
+- Luego de que el usuario busca un recital
 - El usuario elegirá algun recital disponible para unirse
 - El usuario solicita unirse al recital
 - El sistema verificara al usuario para poder unirse
