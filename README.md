@@ -20,7 +20,7 @@ Sistema de publicacion de recitales.
 
 ## Link a proyectos
 
-[Documentacion](https://github.com/fuser1988/circuitoDelUnder-Documentacion)
+[Documentacion-wiki](https://github.com/fuser1988/circuitoDelUnder-Documentacion/wiki)
 
 [Backend](https://github.com/fuser1988/circuitoDelUnder-Backend)
 
