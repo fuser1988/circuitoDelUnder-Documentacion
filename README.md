@@ -17,8 +17,14 @@ Sistema de publicacion de recitales.
 + Cristian Espindola
 + Sergio Guzman
 
-## Prueba de Concepto
-[Prueba de concepto](https://github.com/fuser1988/circuitoDelUnder-Documentacion/blob/master/prueba-de-concepto/prueba-de-concepto.md)
+
+## Link a proyectos
+
+[Documentacion](https://github.com/fuser1988/circuitoDelUnder-Documentacion)
+
+[Backend](https://github.com/fuser1988/circuitoDelUnder-Backend)
+
+[Frontend](https://github.com/fuser1988/circuitoDelUnder-Frontend)
 
 ## Link a trello
 [Trello](https://trello.com/b/RjDFfjbw/circuito-del-under)
