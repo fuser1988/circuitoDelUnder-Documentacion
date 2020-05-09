@@ -3,7 +3,10 @@
 
 ## ¿Que es Circuito del under?
 
-Circuito del under es una aplicación para la difusión de las bandas unders.
+Circuito del under es una aplicación para la difusión de las bandas musicales unders.
+
+## Objetivo
+ El objetivo principal de circuito del under es apoyar la cultura musical under difundiendo recitales y fomentando la auto organización de los mismos al conectar bandas de diferentes lugares.
 
 ## Profesores
 
