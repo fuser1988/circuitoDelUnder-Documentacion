@@ -1,13 +1,9 @@
 # circuitoDelUnder-Documentacion
 ![](https://github.com/fuser1988/circuitoDelUnder-Documentacion/blob/master/Circuito-del-under.png)
 
-## Introducción
+## ¿Que es Circuito del under?
 
-Proyecto del Trabajo de Inserción Profesional de la carrera "Tecnicatura en programación informática" de la Universidad de Quilmes.
-
-## Objetivo
-
-Sistema de publicacion de recitales.
+Circuito del under es una aplicación para la difusión de las bandas unders.
 
 ## Profesores
 
