@@ -1,5 +1,5 @@
 # circuitoDelUnder-Documentacion
-![](https://github.com/fuser1988/circuitoDelUnder-Documentacion/blob/master/circuito.jpg)
+![](https://github.com/fuser1988/circuitoDelUnder-Documentacion/blob/master/circuito.png)
 
 ## ¿Que es Circuito del under?
 
